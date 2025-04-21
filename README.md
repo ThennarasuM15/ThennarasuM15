@@ -1,5 +1,5 @@
-🌟 Thennarasu M – Data Analyst | Turning Data into Decisions
-
+#🌟 Thennarasu M – Data Analyst | Turning Data into Decisions
+---
 I’m someone who believes data isn't just numbers — it's decisions waiting to be made, stories ready to be told.
 I’m a data-driven problem solver with a background in Mechanical Engineering and a growing passion for analytics. My journey into data wasn’t accidental—it was a conscious shift driven by curiosity and a desire to solve real-world problems using numbers, patterns, and logic.
 
